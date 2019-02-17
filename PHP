@@ -1,3 +1,0 @@
-php111
-
-phpinfe();
